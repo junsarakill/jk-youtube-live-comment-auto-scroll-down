@@ -6,8 +6,8 @@
 // @author       jkakk
 // @match        *://www.youtube.com/live_chat*
 // @match        *://www.youtube.com/watch*
-// @updateURL    https://raw.githubusercontent.com/junsarakill/jk-youtube-live-comment-auto-scroll-down/main/JKYLCASD.js
-// @downloadURL  https://raw.githubusercontent.com/junsarakill/jk-youtube-live-comment-auto-scroll-down/main/JKYLCASD.js
+// @updateURL    https://raw.githubusercontent.com/junsarakill/jk-youtube-live-comment-auto-scroll-down/main/JKYLCASD.user.js
+// @downloadURL  https://raw.githubusercontent.com/junsarakill/jk-youtube-live-comment-auto-scroll-down/main/JKYLCASD.user.js
 // @grant        none
 // ==/UserScript==
 
